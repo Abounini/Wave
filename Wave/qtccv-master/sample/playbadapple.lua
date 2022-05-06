@@ -12,7 +12,7 @@ if (not fs.exists("Guren No Yumiyae.nbs")) then
     getFile("decode/apis/wave.lua", "apis/wave.lua")
     getFile("decode/videoplayer.lua", "videoplayer.lua")
     getFile("sample/Guren No Yumiyae.nbs", "Guren No Yumiya.nbs")
-    getFile("sample/badapple.qtv", "badapple.qtv")
+    
  
 end
  
