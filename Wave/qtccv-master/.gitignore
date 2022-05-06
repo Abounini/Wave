@@ -1,0 +1,7 @@
+__pycache__/
+*.mp4
+*.qtv
+*.nbs
+*.png
+*.txt
+!sample/*
