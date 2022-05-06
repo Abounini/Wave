@@ -11,7 +11,7 @@ if (not fs.exists("badapple.qtv")) then
     getFile("decode/apis/hexscreen.lua", "apis/hexscreen.lua")
     getFile("decode/apis/wave.lua", "apis/wave.lua")
     getFile("decode/videoplayer.lua", "videoplayer.lua")
-    getFile("sample/badapple.nbs", "Guren No Yumiya.nbs")
+    getFile("sample/Guren No Yumiyae.nbs", "Guren No Yumiya.nbs")
     getFile("sample/badapple.qtv", "badapple.qtv")
  
 end
