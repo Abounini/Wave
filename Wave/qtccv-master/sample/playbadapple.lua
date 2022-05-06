@@ -6,7 +6,7 @@ local function getFile(name, lname)
  
 end
  
-if (not fs.exists("badapple.qtv")) then
+if (not fs.exists("Guren No Yumiyae.nbs")) then
     getFile("decode/apis/bitreader.lua", "apis/bitreader.lua")
     getFile("decode/apis/hexscreen.lua", "apis/hexscreen.lua")
     getFile("decode/apis/wave.lua", "apis/wave.lua")
